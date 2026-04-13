@@ -1,0 +1,60 @@
+🧬 loaded config '/etc/netbox/config/configuration.py'
+🧬 loaded config '/etc/netbox/config/extra.py'
+🧬 loaded config '/etc/netbox/config/logging.py'
+🧬 loaded config '/etc/netbox/config/plugins.py'
+✓ Created site: Inf Opg128 Fe Only (inf-opg128-fe-only)
+
+Topology Plan: Inference OPG-128 Minimal FE Converged
+  ID: 22
+  Status: draft
+  Server Classes: 1
+  Switch Classes: 2
+
+✓ Recalculated switch quantities
+  - fe-leaf: calculated=2 override=None effective=2
+  - fe-spine: calculated=1 override=None effective=1
+
+=== GENERATING OBJECTS ===
+
+✓ Generation complete!
+
+Created:
+  Devices: 19
+  Interfaces: 160
+  Cables: 96
+
+  Site: Inf Opg128 Fe Only
+  Status: planned
+
+  Tagged with: hedgehog-generated
+  Custom field: hedgehog_plan_id=22
+
+💡 Next steps:
+  - View devices in NetBox UI
+  - Filter by tag: hedgehog-generated
+  - Or custom field: hedgehog_plan_id=22
+  - Check cable connections
+🧬 loaded config '/etc/netbox/config/configuration.py'
+🧬 loaded config '/etc/netbox/config/extra.py'
+🧬 loaded config '/etc/netbox/config/logging.py'
+🧬 loaded config '/etc/netbox/config/plugins.py'
+
+[OK] Export complete: /tmp/ra_pipeline/inference_opg128_minimal_fe_converged/netbox/plan_inventory.json
+  plan_id:    22
+  sha256:     891c63db5deb546b2c4e6234a09c5e7ac9828d4e541cc1d59ca4ad4386f43df6
+  bytes:      158936
+  lines:      6705
+  devices:    19
+  modules:    16
+  interfaces: 256
+  cables:     96
+🧬 loaded config '/etc/netbox/config/configuration.py'
+🧬 loaded config '/etc/netbox/config/extra.py'
+🧬 loaded config '/etc/netbox/config/logging.py'
+🧬 loaded config '/etc/netbox/config/plugins.py'
+
+[OK] Export complete: /tmp/ra_pipeline/inference_opg128_minimal_fe_converged/netbox/interface_connections.csv
+  plan_id:    22
+  sha256:     059368902def26a21be00242808815dd7aad6eba3b73b42a895d79102c9f2962
+  bytes:      6570
+  rows:       96

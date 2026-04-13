@@ -1,0 +1,6 @@
+🧬 loaded config '/etc/netbox/config/configuration.py'
+🧬 loaded config '/etc/netbox/config/extra.py'
+🧬 loaded config '/etc/netbox/config/logging.py'
+🧬 loaded config '/etc/netbox/config/plugins.py'
+Reference mode: ensure
+Applied case 'inference_opg64_minimal_fe_converged' -> plan 'Inference OPG-64 Minimal FE Converged'

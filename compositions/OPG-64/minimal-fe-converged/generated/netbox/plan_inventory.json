@@ -1,0 +1,5601 @@
+{
+  "cables": [
+    {
+      "a_terminations": [
+        {
+          "device_id": 341,
+          "device_name": "compute-001",
+          "id": 9457,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9459,
+          "name": "E1/1/1",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3727,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 341,
+          "device_name": "compute-001",
+          "id": 9458,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9460,
+          "name": "E1/1/1",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3728,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 342,
+          "device_name": "compute-002",
+          "id": 9461,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9463,
+          "name": "E1/1/2",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3729,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 342,
+          "device_name": "compute-002",
+          "id": 9462,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9464,
+          "name": "E1/1/2",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3730,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 343,
+          "device_name": "compute-003",
+          "id": 9465,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9467,
+          "name": "E1/1/3",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3731,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 343,
+          "device_name": "compute-003",
+          "id": 9466,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9468,
+          "name": "E1/1/3",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3732,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 344,
+          "device_name": "compute-004",
+          "id": 9469,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9471,
+          "name": "E1/1/4",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3733,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 344,
+          "device_name": "compute-004",
+          "id": 9470,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9472,
+          "name": "E1/1/4",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3734,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 345,
+          "device_name": "compute-005",
+          "id": 9473,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9475,
+          "name": "E1/3/1",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3735,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 345,
+          "device_name": "compute-005",
+          "id": 9474,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9476,
+          "name": "E1/3/1",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3736,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 346,
+          "device_name": "compute-006",
+          "id": 9477,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9479,
+          "name": "E1/3/2",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3737,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 346,
+          "device_name": "compute-006",
+          "id": 9478,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9480,
+          "name": "E1/3/2",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3738,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 347,
+          "device_name": "compute-007",
+          "id": 9481,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9483,
+          "name": "E1/3/3",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3739,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 347,
+          "device_name": "compute-007",
+          "id": 9482,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9484,
+          "name": "E1/3/3",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3740,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 348,
+          "device_name": "compute-008",
+          "id": 9485,
+          "name": "fe-p0",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9487,
+          "name": "E1/3/4",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3741,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 348,
+          "device_name": "compute-008",
+          "id": 9486,
+          "name": "fe-p1",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9488,
+          "name": "E1/3/4",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3742,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9266,
+          "name": "E1/2",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9393,
+          "name": "E1/1",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3743,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9268,
+          "name": "E1/4",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9394,
+          "name": "E1/2",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3744,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9270,
+          "name": "E1/6",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9395,
+          "name": "E1/3",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3745,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9272,
+          "name": "E1/8",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9396,
+          "name": "E1/4",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3746,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9274,
+          "name": "E1/10",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9397,
+          "name": "E1/5",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3747,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9276,
+          "name": "E1/12",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9398,
+          "name": "E1/6",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3748,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9278,
+          "name": "E1/14",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9399,
+          "name": "E1/7",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3749,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9280,
+          "name": "E1/16",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9400,
+          "name": "E1/8",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3750,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9282,
+          "name": "E1/18",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9401,
+          "name": "E1/9",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3751,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9284,
+          "name": "E1/20",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9402,
+          "name": "E1/10",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3752,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9286,
+          "name": "E1/22",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9403,
+          "name": "E1/11",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3753,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9288,
+          "name": "E1/24",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9404,
+          "name": "E1/12",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3754,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9290,
+          "name": "E1/26",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9405,
+          "name": "E1/13",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3755,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9292,
+          "name": "E1/28",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9406,
+          "name": "E1/14",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3756,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9294,
+          "name": "E1/30",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9407,
+          "name": "E1/15",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3757,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9296,
+          "name": "E1/32",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9408,
+          "name": "E1/16",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3758,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9298,
+          "name": "E1/34",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9409,
+          "name": "E1/17",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3759,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9300,
+          "name": "E1/36",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9410,
+          "name": "E1/18",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3760,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9302,
+          "name": "E1/38",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9411,
+          "name": "E1/19",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3761,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9304,
+          "name": "E1/40",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9412,
+          "name": "E1/20",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3762,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9306,
+          "name": "E1/42",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9413,
+          "name": "E1/21",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3763,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9308,
+          "name": "E1/44",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9414,
+          "name": "E1/22",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3764,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9310,
+          "name": "E1/46",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9415,
+          "name": "E1/23",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3765,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9312,
+          "name": "E1/48",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9416,
+          "name": "E1/24",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3766,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9314,
+          "name": "E1/50",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9417,
+          "name": "E1/25",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3767,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9316,
+          "name": "E1/52",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9418,
+          "name": "E1/26",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3768,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9318,
+          "name": "E1/54",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9419,
+          "name": "E1/27",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3769,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9320,
+          "name": "E1/56",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9420,
+          "name": "E1/28",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3770,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9322,
+          "name": "E1/58",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9421,
+          "name": "E1/29",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3771,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9324,
+          "name": "E1/60",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9422,
+          "name": "E1/30",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3772,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9326,
+          "name": "E1/62",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9423,
+          "name": "E1/31",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3773,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 338,
+          "device_name": "fe-leaf-01",
+          "id": 9328,
+          "name": "E1/64",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9424,
+          "name": "E1/32",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3774,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9330,
+          "name": "E1/2",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9425,
+          "name": "E1/33",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3775,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9332,
+          "name": "E1/4",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9426,
+          "name": "E1/34",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3776,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9334,
+          "name": "E1/6",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9427,
+          "name": "E1/35",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3777,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9336,
+          "name": "E1/8",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9428,
+          "name": "E1/36",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3778,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9338,
+          "name": "E1/10",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9429,
+          "name": "E1/37",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3779,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9340,
+          "name": "E1/12",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9430,
+          "name": "E1/38",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3780,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9342,
+          "name": "E1/14",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9431,
+          "name": "E1/39",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3781,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9344,
+          "name": "E1/16",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9432,
+          "name": "E1/40",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3782,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9346,
+          "name": "E1/18",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9433,
+          "name": "E1/41",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3783,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9348,
+          "name": "E1/20",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9434,
+          "name": "E1/42",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3784,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9350,
+          "name": "E1/22",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9435,
+          "name": "E1/43",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3785,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9352,
+          "name": "E1/24",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9436,
+          "name": "E1/44",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3786,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9354,
+          "name": "E1/26",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9437,
+          "name": "E1/45",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3787,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9356,
+          "name": "E1/28",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9438,
+          "name": "E1/46",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3788,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9358,
+          "name": "E1/30",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9439,
+          "name": "E1/47",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3789,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9360,
+          "name": "E1/32",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9440,
+          "name": "E1/48",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3790,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9362,
+          "name": "E1/34",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9441,
+          "name": "E1/49",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3791,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9364,
+          "name": "E1/36",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9442,
+          "name": "E1/50",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3792,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9366,
+          "name": "E1/38",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9443,
+          "name": "E1/51",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3793,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9368,
+          "name": "E1/40",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9444,
+          "name": "E1/52",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3794,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9370,
+          "name": "E1/42",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9445,
+          "name": "E1/53",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3795,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9372,
+          "name": "E1/44",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9446,
+          "name": "E1/54",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3796,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9374,
+          "name": "E1/46",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9447,
+          "name": "E1/55",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3797,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9376,
+          "name": "E1/48",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9448,
+          "name": "E1/56",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3798,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9378,
+          "name": "E1/50",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9449,
+          "name": "E1/57",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3799,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9380,
+          "name": "E1/52",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9450,
+          "name": "E1/58",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3800,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9382,
+          "name": "E1/54",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9451,
+          "name": "E1/59",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3801,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9384,
+          "name": "E1/56",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9452,
+          "name": "E1/60",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3802,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9386,
+          "name": "E1/58",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9453,
+          "name": "E1/61",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3803,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9388,
+          "name": "E1/60",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9454,
+          "name": "E1/62",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3804,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9390,
+          "name": "E1/62",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9455,
+          "name": "E1/63",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3805,
+      "status": "connected",
+      "type": null
+    },
+    {
+      "a_terminations": [
+        {
+          "device_id": 339,
+          "device_name": "fe-leaf-02",
+          "id": 9392,
+          "name": "E1/64",
+          "object_type": "Interface"
+        }
+      ],
+      "b_terminations": [
+        {
+          "device_id": 340,
+          "device_name": "fe-spine-01",
+          "id": 9456,
+          "name": "E1/64",
+          "object_type": "Interface"
+        }
+      ],
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "id": 3806,
+      "status": "connected",
+      "type": null
+    }
+  ],
+  "devices": [
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 341,
+      "manufacturer": "Generic",
+      "name": "compute-001",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 342,
+      "manufacturer": "Generic",
+      "name": "compute-002",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 343,
+      "manufacturer": "Generic",
+      "name": "compute-003",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 344,
+      "manufacturer": "Generic",
+      "name": "compute-004",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 345,
+      "manufacturer": "Generic",
+      "name": "compute-005",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 346,
+      "manufacturer": "Generic",
+      "name": "compute-006",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 347,
+      "manufacturer": "Generic",
+      "name": "compute-007",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_class": "compute",
+        "hedgehog_plan_id": "21"
+      },
+      "device_type": "OPG-64 Inference Server FE-Only",
+      "id": 348,
+      "manufacturer": "Generic",
+      "name": "compute-008",
+      "role": "server",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "boot_mac": "02:95:fa:72:6a:56",
+        "hedgehog_class": "fe-leaf",
+        "hedgehog_fabric": "frontend",
+        "hedgehog_fabric_class": "managed",
+        "hedgehog_plan_id": "21",
+        "hedgehog_role": "server-leaf"
+      },
+      "device_type": "Celestica DS5000",
+      "id": 338,
+      "manufacturer": "Celestica",
+      "name": "fe-leaf-01",
+      "role": "leaf",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "boot_mac": "02:c2:05:8e:66:6c",
+        "hedgehog_class": "fe-leaf",
+        "hedgehog_fabric": "frontend",
+        "hedgehog_fabric_class": "managed",
+        "hedgehog_plan_id": "21",
+        "hedgehog_role": "server-leaf"
+      },
+      "device_type": "Celestica DS5000",
+      "id": 339,
+      "manufacturer": "Celestica",
+      "name": "fe-leaf-02",
+      "role": "leaf",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    },
+    {
+      "custom_field_data": {
+        "boot_mac": "02:51:14:70:c8:a5",
+        "hedgehog_class": "fe-spine",
+        "hedgehog_fabric": "frontend",
+        "hedgehog_fabric_class": "managed",
+        "hedgehog_plan_id": "21",
+        "hedgehog_role": "spine"
+      },
+      "device_type": "Celestica DS5000",
+      "id": 340,
+      "manufacturer": "Celestica",
+      "name": "fe-spine-01",
+      "role": "spine",
+      "site": "inf-opg64-fe-only",
+      "status": "planned",
+      "tags": [
+        "hedgehog-generated"
+      ]
+    }
+  ],
+  "interfaces": [
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 341,
+      "device_name": "compute-001",
+      "enabled": true,
+      "id": 9457,
+      "module_id": 1555,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 341,
+      "device_name": "compute-001",
+      "enabled": true,
+      "id": 9458,
+      "module_id": 1555,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 342,
+      "device_name": "compute-002",
+      "enabled": true,
+      "id": 9461,
+      "module_id": 1556,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 342,
+      "device_name": "compute-002",
+      "enabled": true,
+      "id": 9462,
+      "module_id": 1556,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 343,
+      "device_name": "compute-003",
+      "enabled": true,
+      "id": 9465,
+      "module_id": 1557,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 343,
+      "device_name": "compute-003",
+      "enabled": true,
+      "id": 9466,
+      "module_id": 1557,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 344,
+      "device_name": "compute-004",
+      "enabled": true,
+      "id": 9469,
+      "module_id": 1558,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 344,
+      "device_name": "compute-004",
+      "enabled": true,
+      "id": 9470,
+      "module_id": 1558,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 345,
+      "device_name": "compute-005",
+      "enabled": true,
+      "id": 9473,
+      "module_id": 1559,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 345,
+      "device_name": "compute-005",
+      "enabled": true,
+      "id": 9474,
+      "module_id": 1559,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 346,
+      "device_name": "compute-006",
+      "enabled": true,
+      "id": 9477,
+      "module_id": 1560,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 346,
+      "device_name": "compute-006",
+      "enabled": true,
+      "id": 9478,
+      "module_id": 1560,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 347,
+      "device_name": "compute-007",
+      "enabled": true,
+      "id": 9481,
+      "module_id": 1561,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 347,
+      "device_name": "compute-007",
+      "enabled": true,
+      "id": 9482,
+      "module_id": 1561,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 348,
+      "device_name": "compute-008",
+      "enabled": true,
+      "id": 9485,
+      "module_id": 1562,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p0",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_transceiver_spec": ""
+      },
+      "device_id": 348,
+      "device_name": "compute-008",
+      "enabled": true,
+      "id": 9486,
+      "module_id": 1562,
+      "module_type": "BlueField-3 2x200G",
+      "name": "fe-p1",
+      "type": "other"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9265,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 1,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9459,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/1",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 2,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9463,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/2",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 3,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9467,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/3",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 4,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9471,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/4",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 2,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9266,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/2",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9267,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 1,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9475,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/1",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 2,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9479,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/2",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 3,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9483,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/3",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 4,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9487,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/4",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 4,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9268,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/4",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9269,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/5",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 6,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9270,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/6",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9271,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/7",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 8,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9272,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/8",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9273,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/9",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 10,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9274,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/10",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9275,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/11",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 12,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9276,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/12",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9277,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/13",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 14,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9278,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/14",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9279,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/15",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 16,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9280,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/16",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9281,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/17",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 18,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9282,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/18",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9283,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/19",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 20,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9284,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/20",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9285,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/21",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 22,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9286,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/22",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9287,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/23",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 24,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9288,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/24",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9289,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/25",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 26,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9290,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/26",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9291,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/27",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 28,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9292,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/28",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9293,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/29",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 30,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9294,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/30",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9295,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/31",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 32,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9296,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/32",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9297,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/33",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 34,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9298,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/34",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9299,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/35",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 36,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9300,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/36",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9301,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/37",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 38,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9302,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/38",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9303,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/39",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 40,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9304,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/40",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9305,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/41",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 42,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9306,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/42",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9307,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/43",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 44,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9308,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/44",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9309,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/45",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 46,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9310,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/46",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9311,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/47",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 48,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9312,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/48",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9313,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/49",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 50,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9314,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/50",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9315,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/51",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 52,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9316,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/52",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9317,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/53",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 54,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9318,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/54",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9319,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/55",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 56,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9320,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/56",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9321,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/57",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 58,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9322,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/58",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9323,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/59",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 60,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9324,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/60",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9325,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/61",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 62,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9326,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/62",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9327,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/63",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 64,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 338,
+      "device_name": "fe-leaf-01",
+      "enabled": true,
+      "id": 9328,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/64",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9329,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 1,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9460,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/1",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 2,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9464,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/2",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 3,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9468,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/3",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 4,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9472,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1/4",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 2,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9330,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/2",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9331,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 1,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9476,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/1",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 2,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9480,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/2",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 3,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9484,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/3",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": 4,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-server-ports"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9488,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3/4",
+      "type": "200gbase-x-qsfp56"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 4,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9332,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/4",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9333,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/5",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 6,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9334,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/6",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9335,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/7",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 8,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9336,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/8",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9337,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/9",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 10,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9338,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/10",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9339,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/11",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 12,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9340,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/12",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9341,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/13",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 14,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9342,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/14",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9343,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/15",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 16,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9344,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/16",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9345,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/17",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 18,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9346,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/18",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9347,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/19",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 20,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9348,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/20",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9349,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/21",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 22,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9350,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/22",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9351,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/23",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 24,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9352,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/24",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9353,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/25",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 26,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9354,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/26",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9355,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/27",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 28,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9356,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/28",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9357,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/29",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 30,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9358,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/30",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9359,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/31",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 32,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9360,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/32",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9361,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/33",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 34,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9362,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/34",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9363,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/35",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 36,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9364,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/36",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9365,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/37",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 38,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9366,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/38",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9367,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/39",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 40,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9368,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/40",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9369,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/41",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 42,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9370,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/42",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9371,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/43",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 44,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9372,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/44",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9373,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/45",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 46,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9374,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/46",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9375,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/47",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 48,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9376,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/48",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9377,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/49",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 50,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9378,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/50",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9379,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/51",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 52,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9380,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/52",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9381,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/53",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 54,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9382,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/54",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9383,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/55",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 56,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9384,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/56",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9385,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/57",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 58,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9386,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/58",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9387,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/59",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 60,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9388,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/60",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9389,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/61",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 62,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9390,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/62",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {},
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9391,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/63",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 64,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-uplinks"
+      },
+      "device_id": 339,
+      "device_name": "fe-leaf-02",
+      "enabled": true,
+      "id": 9392,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/64",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 1,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9393,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/1",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 2,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9394,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/2",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 3,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9395,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/3",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 4,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9396,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/4",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 5,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9397,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/5",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 6,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9398,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/6",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 7,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9399,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/7",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 8,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9400,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/8",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 9,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9401,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/9",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 10,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9402,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/10",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 11,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9403,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/11",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 12,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9404,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/12",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 13,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9405,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/13",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 14,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9406,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/14",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 15,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9407,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/15",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 16,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9408,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/16",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 17,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9409,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/17",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 18,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9410,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/18",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 19,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9411,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/19",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 20,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9412,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/20",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 21,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9413,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/21",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 22,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9414,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/22",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 23,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9415,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/23",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 24,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9416,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/24",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 25,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9417,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/25",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 26,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9418,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/26",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 27,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9419,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/27",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 28,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9420,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/28",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 29,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9421,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/29",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 30,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9422,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/30",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 31,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9423,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/31",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 32,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9424,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/32",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 33,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9425,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/33",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 34,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9426,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/34",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 35,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9427,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/35",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 36,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9428,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/36",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 37,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9429,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/37",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 38,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9430,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/38",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 39,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9431,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/39",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 40,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9432,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/40",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 41,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9433,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/41",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 42,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9434,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/42",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 43,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9435,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/43",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 44,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9436,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/44",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 45,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9437,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/45",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 46,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9438,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/46",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 47,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9439,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/47",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 48,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9440,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/48",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 49,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9441,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/49",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 50,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9442,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/50",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 51,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9443,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/51",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 52,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9444,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/52",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 53,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9445,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/53",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 54,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9446,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/54",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 55,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9447,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/55",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 56,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9448,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/56",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 57,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9449,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/57",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 58,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9450,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/58",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 59,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9451,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/59",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 60,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9452,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/60",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 61,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9453,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/61",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 62,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9454,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/62",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 63,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9455,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/63",
+      "type": "800gbase-x-osfp"
+    },
+    {
+      "custom_field_data": {
+        "hedgehog_breakout_index": null,
+        "hedgehog_physical_port": 64,
+        "hedgehog_plan_id": "21",
+        "hedgehog_zone": "fe-fabric-downlinks"
+      },
+      "device_id": 340,
+      "device_name": "fe-spine-01",
+      "enabled": true,
+      "id": 9456,
+      "module_id": null,
+      "module_type": "",
+      "name": "E1/64",
+      "type": "800gbase-x-osfp"
+    }
+  ],
+  "metadata": {
+    "counts": {
+      "cables": 80,
+      "devices": 11,
+      "interfaces": 224,
+      "modules": 8
+    },
+    "generated_at": "2026-03-13T17:03:18.935037+00:00",
+    "plan_id": 21,
+    "plan_name": "Inference OPG-64 Minimal FE Converged"
+  },
+  "modules": [
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 341,
+      "device_name": "compute-001",
+      "id": 1555,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-001-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 342,
+      "device_name": "compute-002",
+      "id": 1556,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-002-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 343,
+      "device_name": "compute-003",
+      "id": 1557,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-003-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 344,
+      "device_name": "compute-004",
+      "id": 1558,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-004-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 345,
+      "device_name": "compute-005",
+      "id": 1559,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-005-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 346,
+      "device_name": "compute-006",
+      "id": 1560,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-006-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 347,
+      "device_name": "compute-007",
+      "id": 1561,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-007-fe",
+      "status": "active"
+    },
+    {
+      "asset_tag": null,
+      "custom_field_data": {
+        "hedgehog_plan_id": "21"
+      },
+      "device_id": 348,
+      "device_name": "compute-008",
+      "id": 1562,
+      "module_type": "BlueField-3 2x200G",
+      "serial": "compute-008-fe",
+      "status": "active"
+    }
+  ]
+}
