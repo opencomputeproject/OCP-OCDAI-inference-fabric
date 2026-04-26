@@ -14,6 +14,7 @@ Why it matters
 How this folder is organized
 - OPG sizes: `OPG-32`, `OPG-64`, `OPG-128`, `OPG-256`
 - XOC tiers: `XOC-64`, `XOC-128`, `XOC-256`, `XOC-512` (compositions of one or more OPGs)
+- Virtual learning compositions: `OPG-256-virtual`, `XOC-256-virtual`
 - Each size/tier contains one or more variants. Variant names are tokenized for clarity and grep‑ability.
 
 Profiles
@@ -35,3 +36,6 @@ Reading the variant names (quick key)
 
 Cooling and density
 - The compositions in this repository are designed to work with air or liquid cooling at any density. Cooling medium and rack density are physical deployment choices that do not affect the network topology.
+
+Virtual learning note
+- The virtual learning compositions are intentionally pedagogical. They mirror the RA artifact workflow while using a simplified deployable subset that is suitable for VLAB-based instruction.
