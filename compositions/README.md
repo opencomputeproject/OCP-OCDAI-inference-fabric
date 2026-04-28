@@ -14,7 +14,7 @@ Why it matters
 How this folder is organized
 - OPG sizes: `OPG-32`, `OPG-64`, `OPG-128`, `OPG-256`
 - XOC tiers: `XOC-64`, `XOC-128`, `XOC-256`, `XOC-512` (compositions of one or more OPGs)
-- Virtual learning compositions: `OPG-256-virtual`, `XOC-256-virtual`
+- Virtual learning compositions: `OPG-64-virtual`, `XOC-64-virtual`
 - Each size/tier contains one or more variants. Variant names are tokenized for clarity and grep‑ability.
 
 Profiles
